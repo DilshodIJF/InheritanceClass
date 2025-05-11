@@ -1,3 +1,5 @@
+package Doctor;
+
 public class DoctorClass{
     private String diagnose = "Sizni davolashimiz uchun tashxis qo'yishimiz kerak";
     private  String treat = "Biz sizni davolaymiz";

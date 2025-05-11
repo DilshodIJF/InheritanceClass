@@ -1,3 +1,5 @@
+package Doctor;
+
 public class SurgeonClass extends DoctorClass{
     private String inspect = "Biz sizni kozdan kechiramiz";
     private String ask = "Sizni qanday shikoyatlaringiz bor";

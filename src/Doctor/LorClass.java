@@ -1,3 +1,5 @@
+package Doctor;
+
 public class LorClass extends DoctorClass {
     private String examnine;
     private  String assess;;
